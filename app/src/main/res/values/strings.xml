@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XNulls</string>
+    <string name="startGame">Играем!</string>
+    <string name="crossturn">Крестики вперед!</string>
+    <string name="nullturn">Нолики вперед!</string>
+    <string name="crosswon">Крестики победили!</string>
+    <string name="nullwon">Нолики победили!</string>
+    <string name="standoff">Ничья(</string>
+</resources>
